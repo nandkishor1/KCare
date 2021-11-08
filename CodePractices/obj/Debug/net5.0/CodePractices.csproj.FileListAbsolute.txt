@@ -1,0 +1,16 @@
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\CodePractices.exe
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\CodePractices.deps.json
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\CodePractices.runtimeconfig.json
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\CodePractices.runtimeconfig.dev.json
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\CodePractices.dll
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\ref\CodePractices.dll
+E:\My Projects\DotNet\CodePractices\CodePractices\bin\Debug\net5.0\CodePractices.pdb
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.csproj.AssemblyReference.cache
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.AssemblyInfoInputs.cache
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.AssemblyInfo.cs
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.csproj.CoreCompileInputs.cache
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.dll
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\ref\CodePractices.dll
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.pdb
+E:\My Projects\DotNet\CodePractices\CodePractices\obj\Debug\net5.0\CodePractices.genruntimeconfig.cache
